@@ -1,6 +1,6 @@
 # Mumble
 
-This is the Vue version of Mumble.dev !
+This is the Vue version of [Mumble.dev](https://mumble.dev).
 
 
 ## Build Setup
