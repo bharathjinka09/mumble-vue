@@ -1,5 +1,8 @@
 # Mumble
 
+This is the Vue version of Mumble.dev !
+
+
 ## Build Setup
 
 ```bash
