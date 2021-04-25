@@ -2,6 +2,8 @@
 
 This is the Vue version of [Mumble.dev](https://mumble.dev).
 
+Mumble-Vue live on [Mumble-vue.dev](https://mumble-vue.herokuapp.com).
+
 
 ## Build Setup
 
